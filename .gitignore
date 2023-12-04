@@ -1,0 +1,21 @@
+# Build output
+build/
+out/
+
+# IDE specific files (IntelliJ IDEA)
+.idea/
+.gradle/
+*.iml
+*.ipr
+*.iws
+
+# Logs and compiled classes
+*.log
+*.class
+
+# Dependency directory (if not using dependency management tools like Maven or Gradle wrapper)
+/libs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
