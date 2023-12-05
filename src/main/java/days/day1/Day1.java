@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.HashMap;
 import java.util.Objects;
 
-
+//advent of code 2023 day 1 solution java
 public  class Day1 {
 
     public static int part1(String relativePath) {
